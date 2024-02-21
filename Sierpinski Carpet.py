@@ -1,11 +1,3 @@
-'''
-Name: Syarifah Radhiyah D/O Mohd Rafi
-Admin Number: 231816M
-Tutorial Group: IT1312-02
-Question: 1b
-Description: Sierpinski Carpet
-'''
-
 import turtle
 
 
