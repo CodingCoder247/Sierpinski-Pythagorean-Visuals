@@ -1,11 +1,3 @@
-'''
-Name: Syarifah Radhiyah D/O Mohd Rafi
-Admin Number: 231816M
-Tutorial Group: IT1312-02
-Question: 2a(i)
-Description: Pythagoras Tree Balanced
-'''
-
 import turtle  # Import the turtle graphics library for drawing
 import math  # Import the math library for mathematical operations
 
